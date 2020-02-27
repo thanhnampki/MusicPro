@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "twitter-bootstrap@4.4.1",
+      "destination": "wwwroot/lib/twitter-bootstrap/"
+    },
+    {
+      "library": "font-awesome@5.12.1",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "library": "select2@4.0.12",
+      "destination": "wwwroot/lib/select2/"
+    },
+    {
+      "library": "bootstrap-fileinput@5.0.8",
+      "destination": "wwwroot/lib/bootstrap-fileinput/"
+    }
+  ]
+}
